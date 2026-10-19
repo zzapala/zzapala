@@ -1,3 +1,4 @@
+<div align="center>
 <h1 align="center">Hello, I am Zuza :)</h1>
 Third year Computer Science student at AGH University and freshman at Information Security Management. Finding my path through exploring. Sometimes messing up the code. That’s not exactly a flattering thing to say about myself, though. But I promise I’ll fix it later.
 
@@ -17,4 +18,4 @@ Third year Computer Science student at AGH University and freshman at Informatio
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
+</div>
