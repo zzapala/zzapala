@@ -3,8 +3,6 @@ Third year Computer Science student at AGH University and freshman at Informatio
 
 ---
 
->  **i have worked with**
-
 <p align="left">
 
 [![My Skills](https://skillicons.dev/icons?i=python,sequelize,bash,vite,postman,mongodb,git)](https://skillicons.dev)
